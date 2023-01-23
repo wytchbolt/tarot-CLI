@@ -2,7 +2,7 @@
 A simple command line interface tool for tarot card readings.
 
 ## Installation
-Run `npm install -g tarot-cli`
+Run `npm install tarot-cli` to install locally or `npm install -g tarot-cli` to install globally.
 
 ## Usage
 `$ tarot-cli`
